@@ -29,7 +29,8 @@ guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide
 Server Requirements
 *******************
 
-PHP version 5.6 or newer is recommended.
+1. PHP version 5.6 or newer is recommended.
+2. Xampp
 
 It should work on 5.3.7 as well, but we strongly advise you NOT to run
 such old versions of PHP, because of potential security and performance
@@ -39,9 +40,12 @@ issues, as well as missing features.
 Installation
 ************
 
-Please see the `installation section <https://codeigniter.com/userguide3/installation/index.html>`_
-of the CodeIgniter User Guide.
-
+1. Download https://github.com/mtsh388/fullstack/archive/refs/heads/master.zip
+2. Run XAMPP.
+3. Start Apache and Mysql
+2. Create database "fullstack"
+3. Expor fullstack.sql to database "fullstack"
+4. Run Application https://localhost/fullstack
 *******
 License
 *******
