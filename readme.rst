@@ -43,9 +43,9 @@ Installation
 1. Download https://github.com/mtsh388/fullstack/archive/refs/heads/master.zip
 2. Run XAMPP.
 3. Start Apache and Mysql
-2. Create database "fullstack"
-3. Expor fullstack.sql to database "fullstack"
-4. Run Application https://localhost/fullstack
+4. Create database "fullstack"
+5. Expor fullstack.sql to database "fullstack"
+6. Run Application https://localhost/fullstack
 *******
 License
 *******
